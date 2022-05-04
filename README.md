@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tinolina25
-- 👀 I’m intersted in data science & web development
+- 👀 I’m intersted in data science & web developement
 - 🌱 I’m currently learning basic html&css/data
 - 💞️ I’m new here so i'm little confused but the beginning is always the hardest
 - 📫 How to reach me ...
